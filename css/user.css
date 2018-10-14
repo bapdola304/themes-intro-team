@@ -43,3 +43,6 @@
 .one-user:hover .info-user {
     transform: rotateY(0deg);
 }
+.Social a{
+    margin: 5px 5px !important;
+}
